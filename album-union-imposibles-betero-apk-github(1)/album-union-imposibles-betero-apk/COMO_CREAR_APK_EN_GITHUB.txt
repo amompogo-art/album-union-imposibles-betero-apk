@@ -1,0 +1,12 @@
+1. Crea un repositorio público llamado album-union-imposibles-betero-apk.
+2. Sube TODO el contenido de este proyecto, respetando las carpetas.
+3. Haz Commit changes en la rama main.
+4. Abre la pestaña Actions.
+5. Entra en “Generar APK Android”.
+6. Pulsa “Run workflow” para ejecutarlo manualmente.
+7. Cuando termine con ✓ verde, abre la ejecución y baja hasta “Artifacts”.
+8. Descarga “album-uib-apk”.
+9. Descomprime el ZIP del artifact y encontrarás app-debug.apk.
+10. Pasa app-debug.apk al móvil e instálala.
+
+Nota: si GitHub pide activar Actions, acepta “Enable actions”.
